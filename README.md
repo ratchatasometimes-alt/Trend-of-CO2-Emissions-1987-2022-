@@ -7,6 +7,11 @@
 |------|------|----------|---------------|
 | `thailand_co2_emission_1987_2022.csv` | ~73 KB | 2,424 | 5 |
 
+| แหล่งที่มา |
+|------
+| `https://www.kaggle.com/datasets/thaweewatboy/thailand-carbon-emission-statistics/code` |
+
+
 ## คำอธิบายคอลัมน์
 
 | คอลัมน์ | ชนิด | คำอธิบาย |
